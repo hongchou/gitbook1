@@ -24,7 +24,7 @@
       }]
     },
         "edit-link": {
-            "base": "https://gitee.com/hongchou/gitbook1/edit/master",
+            "base": "https://github.com/hongchou/gitbook1/edit/main",
             "label": "编辑"
         }
     }
