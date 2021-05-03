@@ -1,0 +1,31 @@
+{
+
+    "plugins": [
+        "donate",
+        "github-buttons@2.1.0",
+        "edit-link"
+    ],
+
+    "pluginsConfig": {
+        "donate": {
+            "wechat": "https://sphard.com/images/wechatpay.jpg",
+            "alipay": "https://sphard.com/images/alipay.jpg",
+            "title": "",
+            "button": "打赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        },
+        "github-buttons": {
+      "buttons": [{
+        "user": "hongchou",
+        "repo": "gitbook1",
+        "type": "star",
+        "size": "large"
+      }]
+    },
+        "edit-link": {
+            "base": "https://gitee.com/hongchou/gitbook1/edit/master",
+            "label": "编辑"
+        }
+    }
+}
